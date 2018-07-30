@@ -1,0 +1,68 @@
+main {
+	font-family: 'Merriweather', serif;
+	text-align: center;
+}
+
+#title {
+	margin: 0;
+	padding: 0;
+	font-size: 40px;
+}
+
+h3 {
+	margin: 5px;
+	font-size: 25px;
+}
+
+#img-div {
+	height: auto;
+	width: auto;
+	padding: 1em;
+	border-radius: 5%;
+	margin: auto;
+	background-color: #C5C6C7;
+}
+
+#image {
+	display: block;
+	border-radius: 5%;
+	width: 100%;
+}
+
+#img-caption {
+	margin-top: 1em;
+  font-size: 17px;
+}
+
+#tribute-info {
+	font-size: 20px;
+	display: table;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#timeline-top {
+  margin-top: 25px;
+}
+
+ul {
+	text-align: left;
+}
+
+#blockquote {
+	margin: auto;
+	font-style: italic;
+	font-size: 26px;
+	background-color: #C5C6C7;
+	padding: 1em;
+  border-radius: 2em;
+}
+
+hr {
+	border-bottom: 1px;
+	color: black;
+}
+
+#tribute-link:hover {
+	color: blue;
+}
